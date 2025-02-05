@@ -33,6 +33,7 @@ public class Main {
 
         janela.setVisible(true);
     }
+    //salve
     public static void shuffle(ArrayList<Squares> lista) {
         Random random = new Random();
         for (int i = lista.size() - 1; i > 0; i--) {
